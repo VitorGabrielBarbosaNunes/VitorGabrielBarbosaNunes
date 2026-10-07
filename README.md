@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img data-importer="image" height="150" src="https://64.media.tumblr.com/062b37da1539288d774528c30d948648/0e953af58dc7d0d4-be/s540x810/bcbff9c5e0048288c1116b4e0c897c2e46ef87b3.gif"  />
 </div>
 
 ###
@@ -71,13 +71,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorGabrielBarbosaNunes/VitorGabrielBarbosaNunes/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorGabrielBarbosaNunes/VitorGabrielBarbosaNunes/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VitorGabrielBarbosaNunes/VitorGabrielBarbosaNunes/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
