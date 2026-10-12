@@ -8,10 +8,10 @@
   <a href="https://www.linkedin.com/in/vitor-gabriel-barbosa-nunes-826296421/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="(91) 99624-4953" target="_blank">
+  <a href="https://wa.me/5591996244953" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
-  <a href="vitorgabrielbarbosanunes@gmail.com" target="_blank">
+  <a href="mailto:vitorgabrielbarbosanunes@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
